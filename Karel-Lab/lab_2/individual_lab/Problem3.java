@@ -30,6 +30,7 @@ public class Problem3 extends Robot
     public void setE(){
         
     }
+    publi
     public void repositionH(){
         turnRight();
         turnRight();
