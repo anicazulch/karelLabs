@@ -1,12 +1,12 @@
 #BlueJ package file
-dependency1.from=Problem2Driver
-dependency1.to=Problem2
+dependency1.from=Problem3Driver
+dependency1.to=Problem3
 dependency1.type=UsesDependency
-dependency2.from=Problem3Driver
-dependency2.to=Problem3
+dependency2.from=Problem1Driver
+dependency2.to=Problem1
 dependency2.type=UsesDependency
-dependency3.from=Problem1Driver
-dependency3.to=Problem1
+dependency3.from=Problem2Driver
+dependency3.to=Problem2
 dependency3.type=UsesDependency
 objectbench.height=93
 objectbench.width=759
